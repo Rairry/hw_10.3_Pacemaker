@@ -60,6 +60,31 @@ Corosync - программный продукт, позволяющий реа�
 
 *Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.*
 
+Нода 1
+
+![image](https://user-images.githubusercontent.com/124167007/232593830-8050d34e-e191-45f1-917c-616c000f018c.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232593876-26d8e12b-dfb5-41c3-856b-2e2d51914c55.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232594360-2a94341c-562a-414a-8028-d12936900fd8.png)
+
+
+Нода 2
+
+![image](https://user-images.githubusercontent.com/124167007/232593995-548278a3-0dcf-48ad-801f-c80c5c50845c.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232594029-6401b76e-1d3f-4444-b291-9e1a21b61355.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232594439-d828ca46-9ecb-4930-a15c-2884444ec1cb.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232594082-339671ac-d329-462e-942f-8a6112587d98.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232594107-2a813173-e81f-4db6-bef4-ed678245139c.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232594225-1dc4d0f6-8af9-4496-930a-ff0e5efaf11a.png)
+
+![image](https://user-images.githubusercontent.com/124167007/232594273-60423bea-5382-4d1a-9ba6-c131daf6a433.png)
+
 ---
 
 ### Задания со звёздочкой*
